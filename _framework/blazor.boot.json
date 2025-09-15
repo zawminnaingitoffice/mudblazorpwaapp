@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MudBlazorPwaApp",
   "resources": {
-    "hash": "sha256-p2z/EqAXoNpY4FYZREZbYGNTZLYr5GiJ+3P1KugO+5g=",
+    "hash": "sha256-hZyWhyjluuov2X3vjl/zojK7dWJ8HMP7GIOjIcN4WYc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-7Sr9r0634sTFicx8ls0XdrHWZCCap615Q5ByQIrsd0Y="
     },
@@ -61,7 +61,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-XdK403EtMu661T0Aom0jdBfkJ24MoqHATDUDfAtdnSY=",
       "System.wasm": "sha256-9DLmgOsnmEbjuZrRVFruRmVRvh/skjCDv6hQMjVZ3K8=",
       "System.Private.CoreLib.wasm": "sha256-szTVvBISUvm4i8ZakGP55lQjGegDe1L+DHbKottT6Ok=",
-      "MudBlazorPwaApp.wasm": "sha256-88rTkIp28yhr/FI7Tcju0gDJ7wvzW5Y1daH165TsZ/I="
+      "MudBlazorPwaApp.wasm": "sha256-n8XPe8iqWU0ENVsoNghqK+/sDHfIZpqHg2afbLLbBwg="
     }
   },
   "cacheBootResources": true,
