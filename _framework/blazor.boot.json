@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MudBlazorPwaApp",
   "resources": {
-    "hash": "sha256-hZyWhyjluuov2X3vjl/zojK7dWJ8HMP7GIOjIcN4WYc=",
+    "hash": "sha256-fVHMKkBakdU6bO/MennBN54oWNTXs78ebRIJ70WJ12c=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-7Sr9r0634sTFicx8ls0XdrHWZCCap615Q5ByQIrsd0Y="
     },
@@ -35,7 +35,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-xyqqv0SMCahnrOs+p5QYDHoh/BAYlbNtyjTTpqmRW/g=",
       "Microsoft.JSInterop.wasm": "sha256-x5MgKNcpNdsiXWQsycqx1TiG+6CIM5/AuhPsF7/VwqM=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-FdHug4S2a7HOsi37rnvEfDrrRGQkT4tHlR4E9AN0Obg=",
-      "MudBlazor.wasm": "sha256-Yw2DadzUimDSv+eINGaKfcfgTJQf4+pvRRIyaWNig+o=",
+      "MudBlazor.wasm": "sha256-YVMcrSH0JlI6drU+hlK7eAjPOpGdOtDfGetAzBoZQno=",
       "System.Collections.Concurrent.wasm": "sha256-a5Y9Dx5ueH4aIgb1ZX5cEFIWdHtK+Tq9ExhZTkPNo/g=",
       "System.Collections.Immutable.wasm": "sha256-4hYrj7ZSJ9B2uJXK9XULpc97zR1gU+JhnWr4bmRIBmM=",
       "System.Collections.wasm": "sha256-1eRv23GaM4pMcYtfMRMJoPntdEp9bIq2ffaXHASldEo=",
@@ -55,13 +55,13 @@
       "System.Private.Uri.wasm": "sha256-af5XnidsMEveF1P5iYU0QPXxkVUi8AaFRrV0AuoBPbA=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-mICeNdEHyUmu7lVd71s+6r8aQ7Lm9YDEhVQQhmoFf9Q=",
       "System.Runtime.InteropServices.wasm": "sha256-1Ge2N6Lj5+abRhuCYqbK9e3b9kzUTkEb/9cmgNdxDvw=",
-      "System.Runtime.wasm": "sha256-NN0sPodFEuLj30UP0aqzZhDPN9u3ztrEdHvzqKiYEIs=",
+      "System.Runtime.wasm": "sha256-DI4862mi7WkeNyDTlDRR6pB9GEawnCItKwOkmdXt4AM=",
       "System.Text.Encodings.Web.wasm": "sha256-VOg+zguG96y73fEMapV6IIhp1erfALWn3Bk/JJpuciY=",
       "System.Text.Json.wasm": "sha256-+quqbsc4thRRlUBpETEPCt/3K2wi+DQoNXGXaLe5zhU=",
       "System.Text.RegularExpressions.wasm": "sha256-XdK403EtMu661T0Aom0jdBfkJ24MoqHATDUDfAtdnSY=",
       "System.wasm": "sha256-9DLmgOsnmEbjuZrRVFruRmVRvh/skjCDv6hQMjVZ3K8=",
       "System.Private.CoreLib.wasm": "sha256-szTVvBISUvm4i8ZakGP55lQjGegDe1L+DHbKottT6Ok=",
-      "MudBlazorPwaApp.wasm": "sha256-n8XPe8iqWU0ENVsoNghqK+/sDHfIZpqHg2afbLLbBwg="
+      "MudBlazorPwaApp.wasm": "sha256-VqYOK0q636IDcaf9HttoOPFAe2NTKe3t420HDAxFRNY="
     }
   },
   "cacheBootResources": true,
