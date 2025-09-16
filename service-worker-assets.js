@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "rEkzZ59c",
+  "version": "Cb+rgK0o",
   "assets": [
     {
       "hash": "sha256-dcjAyRFGXlBSC5CeXTZ9BI9FI6YRMe+DCFuZQDAmPEA=",
@@ -146,11 +146,11 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Win32.SystemEvents.wasm"
     },
     {
-      "hash": "sha256-BuL2ug2K8qttNFVgIViuMBRafAbNdoRmE2z5ZULHFqU=",
+      "hash": "sha256-YaVlHVwGANNZzDx8clQo6dKlQ7NGqHzYzomMNLOdh+4=",
       "url": "_framework/MudBlazor.wasm"
     },
     {
-      "hash": "sha256-OWgsVrym9Vs3mz3KDg7VjX4gERcx2MvswBC+B8VIsMQ=",
+      "hash": "sha256-F1VU8M6vqX0mZyutaigIA68rPOsEKVzogY06ULRqTb8=",
       "url": "_framework/MudBlazorPwaApp.wasm"
     },
     {
@@ -570,7 +570,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-Rtw1qK4DjHVv+U2uWIy7fR57gYLABedOa31Ggd++XHo=",
+      "hash": "sha256-tV4B26Uv1CY12E9jLKw67DgbyujcpoeBNSyS84K8iCw=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -618,7 +618,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-GNFNCRMQwxnX9oOBxL7+EcX4O2s/9TWfzPp13FOV8HE=",
+      "hash": "sha256-44BFqGvfmyZy772Mm4iy8rfYsLW9kUMf3cw34odooas=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
@@ -870,7 +870,7 @@ self.assetsManifest = {
       "url": "images/6.jpeg"
     },
     {
-      "hash": "sha256-+gCUlU/Lqoqz0vAR5MlSWFivNPtr5ai3q/AeCXtmDb8=",
+      "hash": "sha256-a0gOVlKRyco3JOgdvkL7rQNUPzkFiGXlKY9TnFOowAM=",
       "url": "index.html"
     },
     {
